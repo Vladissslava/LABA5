@@ -1,0 +1,49 @@
+.main-title {
+
+    color: red;
+}
+.nav-list li:nth-child(1) .link {
+    color: green;
+
+}
+.link.special-link {
+    color: blue;
+}
+.nav-list li:nth-child(2) .link {
+    color: yellow;
+
+}
+#first-post p {
+    background-color: orange;
+}
+#first-post h2 {
+   color: orange;
+}
+.post h2{
+color: purple;
+}
+.post p{
+
+background-color: purple;
+}
+.widget h3{
+    color: pink;
+}
+.color-list li:nth-child(1) {
+    color: grey;
+}
+.color-list li:nth-child(2) {
+    color: brown;
+}
+.color-list li:nth-child(3) {
+    color: black;
+}
+.widget.important-widget h3{
+    color: darkred;
+}
+.note{
+    color: darkred;
+}
+.submit-btn {
+    background-color: black;
+}
